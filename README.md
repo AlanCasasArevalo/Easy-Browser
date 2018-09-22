@@ -4,7 +4,7 @@
 > iOS WebView navigation with browser progress bar example
 
 ## Preview
-![](https://github.com/AlanCasasArevalo/Social_media/blob/master/SharePicture.gif)
+![](https://github.com/AlanCasasArevalo/Easy-Browser/blob/master/Easy%20Browser.gif)
 
 ## This simple app is an example of WebView
 
